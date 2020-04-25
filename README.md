@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 # CSE2019
-=======
-# CSE2019
->>>>>>> a489e73d6614d2de424508e9a841d3bb2b9a9618
+
+upload assignment
